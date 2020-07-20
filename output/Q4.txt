@@ -1,0 +1,18 @@
+***** Q4_Ballroom *****
+Genre          	F-score
+Samba        	    0.54
+Tango        	    0.74
+ChaChaCha    	    0.82
+VienneseWaltz	    0.71
+Waltz        	    0.55
+Jive         	    0.62
+Rumba        	    0.73
+Quickstep    	    0.55
+----------
+Overall F-score:	0.66
+
+***** Q4_SMC *****
+Overall F-score:	0.36
+
+***** Q4_JCS *****
+Overall F-score:	0.64

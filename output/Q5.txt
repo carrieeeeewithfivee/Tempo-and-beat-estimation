@@ -1,0 +1,30 @@
+***** Q5_JCS_downbeat tracking with RNNDownBeatProcessor*****
+Overall F-score:	0.76
+***** Q5_Ballroom_downbeat tracking with RNNDownBeatProcessor*****
+Genre          	F-score
+Samba        	    0.91
+Tango        	    0.84
+ChaChaCha    	    0.91
+VienneseWaltz	    0.98
+Waltz        	    0.92
+Jive         	    0.92
+Rumba        	    0.91
+Quickstep    	    0.88
+----------
+Overall F-score:	0.91
+***** Q5_Ballroom_beat tracking with RNNBeatProcessor*****
+Genre          	F-score
+Samba        	    0.85
+Tango        	    0.87
+ChaChaCha    	    0.87
+VienneseWaltz	    0.85
+Waltz        	    0.82
+Jive         	    0.83
+Rumba        	    0.83
+Quickstep    	    0.68
+----------
+Overall F-score:	0.83
+***** Q5_SMC_beat tracking with RNNBeatProcessor *****
+Overall F-score:	0.52
+***** Q5_JCS_beat tracking with RNNBeatProcessor *****
+Overall F-score:	0.83

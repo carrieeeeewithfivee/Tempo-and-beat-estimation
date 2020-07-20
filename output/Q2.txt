@@ -1,0 +1,55 @@
+***** Q2_[T /2, T /2]*****
+Genre          	P-score    	ALOTC score
+Samba        	    0.03	    0.03
+Tango        	    0.00	    0.00
+ChaChaCha    	    0.00	    0.00
+VienneseWaltz	    0.00	    0.00
+Waltz        	    0.13	    0.15
+Jive         	    0.00	    0.00
+Rumba        	    0.11	    0.12
+Quickstep    	    0.00	    0.00
+----------
+Overall P-score:	0.03
+Overall ALOTC score:	0.04
+
+***** Q2_[T /3, T /3]*****
+Genre          	P-score    	ALOTC score
+Samba        	    0.00	    0.00
+Tango        	    0.00	    0.00
+ChaChaCha    	    0.00	    0.00
+VienneseWaltz	    0.00	    0.00
+Waltz        	    0.00	    0.00
+Jive         	    0.00	    0.00
+Rumba        	    0.00	    0.00
+Quickstep    	    0.00	    0.00
+----------
+Overall P-score:	0.00
+Overall ALOTC score:	0.00
+
+***** Q2_[T *2, T *2]*****
+Genre          	P-score    	ALOTC score
+Samba        	    0.00	    0.00
+Tango        	    0.00	    0.00
+ChaChaCha    	    0.00	    0.00
+VienneseWaltz	    0.11	    0.14
+Waltz        	    0.00	    0.00
+Jive         	    0.22	    0.43
+Rumba        	    0.00	    0.00
+Quickstep    	    0.92	    0.93
+----------
+Overall P-score:	0.16
+Overall ALOTC score:	0.19
+
+***** Q2_[T *3, T *2]*****
+Genre          	P-score    	ALOTC score
+Samba        	    0.00	    0.00
+Tango        	    0.00	    0.00
+ChaChaCha    	    0.00	    0.00
+VienneseWaltz	    0.00	    0.00
+Waltz        	    0.00	    0.00
+Jive         	    0.00	    0.00
+Rumba        	    0.00	    0.00
+Quickstep    	    0.00	    0.00
+----------
+Overall P-score:	0.00
+Overall ALOTC score:	0.00

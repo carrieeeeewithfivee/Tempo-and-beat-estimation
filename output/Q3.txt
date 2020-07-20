@@ -1,0 +1,13 @@
+***** Q3 *****
+Genre          	P-score    	ALOTC score
+Samba        	    0.56	    0.97
+Tango        	    0.67	    1.00
+ChaChaCha    	    0.65	    0.99
+VienneseWaltz	    0.70	    1.00
+Waltz        	    0.53	    0.96
+Jive         	    0.67	    1.00
+Rumba        	    0.51	    0.95
+Quickstep    	    0.52	    0.78
+----------
+Overall P-score:	0.60
+Overall ALOTC score:	0.96
